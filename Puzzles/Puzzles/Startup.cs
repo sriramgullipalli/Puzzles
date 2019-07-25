@@ -8,6 +8,7 @@ namespace Puzzles
     {
         public void Configuration(IAppBuilder app)
         {
+            //Deepak's Edit
             ConfigureAuth(app);
         }
     }
