@@ -1,0 +1,14 @@
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\bin\Debug\SampleForHandsOnExp_ConsoleApplication.exe.config
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\bin\Debug\SampleForHandsOnExp_ConsoleApplication.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\bin\Debug\SampleForHandsOnExp_ConsoleApplication.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\obj\Debug\SampleForHandsOnExp_ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\obj\Debug\SampleForHandsOnExp_ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\obj\Debug\SampleForHandsOnExp_ConsoleApplication.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication\obj\Debug\SampleForHandsOnExp_ConsoleApplication.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\bin\Debug\SampleForHandsOnExp_ConsoleApplication.exe.config
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\bin\Debug\SampleForHandsOnExp_ConsoleApplication.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\bin\Debug\SampleForHandsOnExp_ConsoleApplication.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\obj\Debug\SampleForHandsOnExp_ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\obj\Debug\SampleForHandsOnExp_ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\obj\Debug\SampleForHandsOnExp_ConsoleApplication.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Variables\obj\Debug\SampleForHandsOnExp_ConsoleApplication.pdb

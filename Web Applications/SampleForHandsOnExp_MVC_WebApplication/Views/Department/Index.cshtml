@@ -1,0 +1,24 @@
+﻿@model IEnumerable<SampleForHandsOnExp_MVC_WebApplication.Models.Department>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h2>Department Details</h2>
+        @foreach(SampleForHandsOnExp_MVC_WebApplication.Models.Department dept in Model)
+            {
+             @Html.ActionLink(dept.DepartmentName,"Index", "Employee",new {id = dept.DeptId}, null)
+            <br />
+            }
+    </div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\bin\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.exe.config
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\bin\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\bin\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\obj\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.csproj.AssemblyReference.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\obj\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\obj\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_Extension Methods\obj\Debug\SampleForHandsOnExp_ConsoleApplication_Extension Methods.pdb

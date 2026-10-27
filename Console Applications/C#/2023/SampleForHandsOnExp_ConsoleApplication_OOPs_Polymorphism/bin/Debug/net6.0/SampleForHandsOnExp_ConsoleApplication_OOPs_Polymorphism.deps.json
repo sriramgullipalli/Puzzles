@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SampleForHandsOnExp_ConsoleApplication_OOPs_Polymorphism/1.0.0": {
+        "runtime": {
+          "SampleForHandsOnExp_ConsoleApplication_OOPs_Polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleForHandsOnExp_ConsoleApplication_OOPs_Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

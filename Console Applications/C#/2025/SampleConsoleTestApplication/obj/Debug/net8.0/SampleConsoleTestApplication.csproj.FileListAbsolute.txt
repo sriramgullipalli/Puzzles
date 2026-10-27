@@ -1,0 +1,15 @@
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\bin\Debug\net8.0\SampleConsoleTestApplication.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\bin\Debug\net8.0\SampleConsoleTestApplication.deps.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\bin\Debug\net8.0\SampleConsoleTestApplication.runtimeconfig.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\bin\Debug\net8.0\SampleConsoleTestApplication.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\bin\Debug\net8.0\SampleConsoleTestApplication.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.AssemblyInfoInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.AssemblyInfo.cs
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.sourcelink.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\refint\SampleConsoleTestApplication.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\SampleConsoleTestApplication.genruntimeconfig.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\2025\SampleConsoleTestApplication\obj\Debug\net8.0\ref\SampleConsoleTestApplication.dll

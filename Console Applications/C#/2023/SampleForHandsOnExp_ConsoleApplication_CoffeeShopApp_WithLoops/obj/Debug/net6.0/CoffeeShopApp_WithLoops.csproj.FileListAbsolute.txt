@@ -1,0 +1,29 @@
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.deps.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.runtimeconfig.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.AssemblyInfoInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.AssemblyInfo.cs
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\refint\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.genruntimeconfig.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\CoffeeShopApp_WithLoops\obj\Debug\net6.0\ref\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.deps.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.runtimeconfig.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\bin\Debug\net6.0\CoffeeShopApp_WithLoops.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.AssemblyInfoInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.AssemblyInfo.cs
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.sourcelink.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\refint\CoffeeShopApp_WithLoops.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\CoffeeShopApp_WithLoops.genruntimeconfig.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\Console Applications\C#\SampleForHandsOnExp_ConsoleApplication_CoffeeShopApp_WithLoops\obj\Debug\net6.0\ref\CoffeeShopApp_WithLoops.dll

@@ -1,0 +1,14 @@
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\bin\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.exe
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\bin\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.deps.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\bin\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.runtimeconfig.json
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\bin\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\bin\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.AssemblyInfoInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.AssemblyInfo.cs
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\refint\SampleForHandsOnExp_ConsoleApplication_OOPs.dll
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.pdb
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\SampleForHandsOnExp_ConsoleApplication_OOPs.genruntimeconfig.cache
+C:\Users\srira\source\repos\sriramgullipalli\Puzzles\SampleForHandsOnExp_ConsoleApplication_OOPs\obj\Debug\net6.0\ref\SampleForHandsOnExp_ConsoleApplication_OOPs.dll
